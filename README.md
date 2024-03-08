@@ -9,7 +9,7 @@ I spent the last years studying and applying new software architectures, adding 
 <center>
 <table>
     <tr>
-        <td><img width="800px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminetto&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminetto&hide=html&layout=compact&theme=buefy" /></td>
     </tr>   
 </table>
 </center>  
