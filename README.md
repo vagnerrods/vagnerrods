@@ -10,7 +10,6 @@ I spent the last years studying and applying new software architectures, adding 
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminetto&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=eminetto&theme=buefy"/></td>
     </tr>   
 </table>
 </center>  
